@@ -15,7 +15,7 @@ Projeto simples de uma tela de login com HTML e CSS, inspirado no estilo glassmo
 
 1. Clone o repositório
 
-- git clone https://github.com/seu-usuario/projeto-login.git
+- git clone https://github.com/rickportela/projeto-login.git
 
 2. Abra o index.html em seu navegador.
 
