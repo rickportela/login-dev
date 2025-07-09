@@ -6,8 +6,6 @@ Projeto simples de uma tela de login com HTML e CSS, inspirado no estilo glassmo
 
 - HTML5  
 - CSS3  
-- Boxicons  
-- Google Fonts
 
 ## Captura de Tela
 
